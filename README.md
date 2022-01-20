@@ -1,3 +1,5 @@
 # Uber’s Failing Brand and Culture Analysis
 Uber Technologies Inc. brand analysis research report describing brand culture and change strategy. Historical strategic context of the brand, the role culture played in the performance decline of the brand, how the culture impacted financial performance, and how they are attempting to transform and renew the culture.
 ([Report](https://github.com/bryce-bowles/uber-culture/blob/f071ffeb1a155df3e220a230e07df21d86c7a112/3_Bryce_Bowles_Assignment_Brands%20on%20Bad%20Behavior.pdf))
+
+It is a well-known fact that over the past several years a large number of brands have struggled mightily with their culture, which ultimately had an impact on their financial performance. In a written report, I've provided a historical strategic context of the brand, explored the role culture played in the performance decline of the brand and third, demonstrated how the culture impacted financial performance as well as identify how Uber is attempting to transform and renew its culture. My own opinion about their culture and change strategy is provided as well as comparisons to other brands.   
